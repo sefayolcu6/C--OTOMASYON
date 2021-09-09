@@ -1,0 +1,10 @@
+C:\Users\asus\Desktop\nesne tabanlı örnekler\GENELORNEK\GENELORNEK\bin\Debug\GENELORNEK.exe.config
+C:\Users\asus\Desktop\nesne tabanlı örnekler\GENELORNEK\GENELORNEK\bin\Debug\GENELORNEK.exe
+C:\Users\asus\Desktop\nesne tabanlı örnekler\GENELORNEK\GENELORNEK\bin\Debug\GENELORNEK.pdb
+C:\Users\asus\Desktop\nesne tabanlı örnekler\GENELORNEK\GENELORNEK\obj\Debug\GENELORNEK.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\nesne tabanlı örnekler\GENELORNEK\GENELORNEK\obj\Debug\GENELORNEK.Form1.resources
+C:\Users\asus\Desktop\nesne tabanlı örnekler\GENELORNEK\GENELORNEK\obj\Debug\GENELORNEK.Properties.Resources.resources
+C:\Users\asus\Desktop\nesne tabanlı örnekler\GENELORNEK\GENELORNEK\obj\Debug\GENELORNEK.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\nesne tabanlı örnekler\GENELORNEK\GENELORNEK\obj\Debug\GENELORNEK.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\nesne tabanlı örnekler\GENELORNEK\GENELORNEK\obj\Debug\GENELORNEK.exe
+C:\Users\asus\Desktop\nesne tabanlı örnekler\GENELORNEK\GENELORNEK\obj\Debug\GENELORNEK.pdb
